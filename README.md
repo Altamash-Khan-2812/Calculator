@@ -21,9 +21,9 @@ You can see the live demo <a href="https://calculator-one-zeta-44.vercel.app/">H
 
 ## Tech Stack
 
-**HTML5**: Structure and layout
-**CSS3**: Styling, gradients, and responsiveness
-**JavaScript**: Logic, event handling, and interactivity
+- **HTML5**: Structure and layout
+- **CSS3**: Styling, gradients, and responsiveness
+- **JavaScript**: Logic, event handling, and interactivity
 
 ## Folder Strcuture
 
